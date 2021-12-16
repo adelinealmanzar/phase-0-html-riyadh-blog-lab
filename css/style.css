@@ -15,7 +15,7 @@ body {
 
 .wrapper {
   margin: 0 auto;
-  width: 60%;
+  width: 50%;
   padding-bottom: 40px;
 }
 
@@ -66,21 +66,21 @@ a:hover {
 
 @media only screen and (max-width: 1042px) {
   .wrapper {
-    width: 80%;
+    width: 50%;
   }
 }
 
 @media only screen and (max-width: 784px) {
   body {
-    font-size: 120%;
+    font-size: 100%;
   }
   h1 {
-    font-size: 2.5em;
+    font-size: 1.5em;
   }
   h2 {
     font-size: 1em;
   }
   .wrapper {
-    width: 95%;
+    width: 60%;
   }
 }
